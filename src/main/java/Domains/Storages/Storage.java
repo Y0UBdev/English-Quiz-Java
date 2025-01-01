@@ -1,4 +1,7 @@
-package Domains;
+package Domains.Storages;
+
+import Domains.Entities.Verbs;
+import Domains.Infrastructures.Reader;
 
 import java.util.HashMap;
 import java.util.Map;

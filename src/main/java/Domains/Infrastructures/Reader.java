@@ -1,4 +1,6 @@
-package Domains;
+package Domains.Infrastructures;
+
+import Domains.Entities.Verbs;
 
 import java.util.Map;
 

@@ -1,5 +1,7 @@
 package Domains;
 
+import Domains.Entities.Verbs;
+
 import java.util.*;
 
 public class Quiz {

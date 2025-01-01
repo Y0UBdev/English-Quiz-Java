@@ -1,4 +1,4 @@
-package Domains;
+package Domains.Entities;
 
 public record Verbs(String infinitive, String past, String participle) {
     @Override

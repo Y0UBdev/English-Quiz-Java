@@ -1,7 +1,7 @@
 package Infrastructure;
 
-import Domains.Reader;
-import Domains.Verbs;
+import Domains.Infrastructures.Reader;
+import Domains.Entities.Verbs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

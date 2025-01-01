@@ -1,7 +1,7 @@
 package Presentation;
 
 import Domains.Quiz;
-import Domains.Storage;
+import Domains.Storages.Storage;
 
 import java.util.Scanner;
 

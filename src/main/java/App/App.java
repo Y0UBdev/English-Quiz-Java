@@ -1,6 +1,6 @@
 package App;
 
-import Domains.Storage;
+import Domains.Storages.Storage;
 import Infrastructure.FileReader;
 import Presentation.QuizController;
 
