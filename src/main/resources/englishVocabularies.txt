@@ -43,7 +43,7 @@ Family and relatives
 = grandma - mamy
 = grandpa - papy
 = mother - mère
-= mum (UK) or mom (US) - maman
+= mom - maman
 = father - père
 = dad - papa
 = parents - parents
@@ -55,7 +55,7 @@ Family and relatives
 = brother-in-law - beau-frère
 = wife - femme
 = husband - mari
-= child (children) - enfant(s)
+= child - enfant
 = son - fils
 = daughter - fille
 = uncle - oncle
@@ -63,7 +63,7 @@ Family and relatives
 = cousin - cousin
 = niece - nièce
 = nephew - neveu
-= kid – enfant
+= kid - enfant
 
 Opposite adjectives used to describe people
 = happy - heureux/heureuse
@@ -132,7 +132,7 @@ Days, months and seasons
 = Thursday - jeudi
 = Friday - vendredi
 = Saturday - samedi
-= Sunday – dimanche
+= Sunday - dimanche
 = January - janvier
 = February - février
 = March - mars
@@ -148,10 +148,10 @@ Days, months and seasons
 = spring - printemps
 = summer - été
 = autumn/fall - automne
-= winter – hiver
+= winter - hiver
 
 Meals, breakfast and snacks
-= breakfast – (petit) déjeuner
+= breakfast - (petit) déjeuner
 = lunch - dîner
 = dinner - souper
 = bread - pain
@@ -164,7 +164,7 @@ Meals, breakfast and snacks
 = pancake - crêpe
 = toast - toast
 = cereal - céréales
-= yogurt – yaourt
+= yogurt - yaourt
 = biscuit - biscuit
 = crisps - chips
 = fruit - fruit
@@ -172,7 +172,7 @@ Meals, breakfast and snacks
 = cake - gâteau
 = ice cream - glace
 = popcorn - pop-corn
-= sandwich – sandwich
+= sandwich - sandwich
 = cake - gâteau
 = candy bar - barre chocolatée
 
@@ -222,20 +222,20 @@ Parts of the body
 = back - dos
 = leg - jambe
 = knee - genou
-= foot (feet) – pied(s)
+= foot - pied
 = toe - orteil
 
 Clothes
 = shirt - chemise
 = blouse - blouse
-= trousers (UK) or pants (US) - pantalon
+= pants (US) - pantalon
 = suit - costume
 = dress - robe
 = skirt - jupe
 = jeans - jeans
 = shorts - short
 = sweater - pull
-= underpants/underwear - sous-vêtements
+= underpants - sous-vêtements
 = jacket - veste
 = coat - manteau
 = hat - chapeau
@@ -283,7 +283,7 @@ Things in a room
 = lamp - lampe
 = chair - chaise
 = armchair - fauteuil
-= wardrobe – garde-robe
+= wardrobe - garde-robe
 = drawer - tiroir
 = shelf - étagère
 = bookcase - bibliothèque
@@ -297,11 +297,11 @@ Things in a room
 = oven - four
 = sink - évier
 = bath - baignoire
-= shower – douche
+= shower - douche
 
 Places in a town
 = town - ville
-= city (large town) – (grande) ville
+= city - ville
 = village - village
 = neighbourhood - quartier
 = city centre - centre-ville
@@ -329,7 +329,8 @@ At the restaurant
 = side dish - accompagnement
 = dessert - dessert
 = reservation - réservation
-= waiter - serveur / waitress - serveuse
+= waiter - serveur
+= waitress - serveuse
 = customer - client
 = menu - menu
 = beverage - boisson
