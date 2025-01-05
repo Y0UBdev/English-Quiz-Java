@@ -1,0 +1,345 @@
+Common things
+= house - maison
+= car - voiture
+= bike - vélo
+= book - livre
+= pen - stylo
+= notebook - cahier
+= backpack - sac à dos
+= watch - montre
+= computer - ordinateur
+= tv - télé (télévision)
+= glasses - lunettes
+= shoes - chaussures
+= wallet - portefeuille
+= key - clé
+= mobile phone - téléphone portable
+= headphones - écouteurs/casque audio
+= umbrella - parapluie
+= passport - passeport
+= hat - chapeau
+= bottle - bouteille
+
+Common verbs and verb phrases
+= to do exercise - faire de l'exercice
+= to go on vacation/holiday - partir en vacances
+= to go to work - aller au travail
+= to drink some coffee - boire du café
+= to listen to music - écouter de la musique
+= to play football - jouer au football
+= to play the guitar - jouer de la guitare
+= to play video games - jouer aux jeux vidéo
+= to read a book - lire un livre
+= to send a text - envoyer un texto
+= to study English - étudier l'anglais
+= to take photos - prendre des photos
+= to visit a museum - visiter un musée
+= to wear glasses - porter des lunettes
+= to send emails - envoyer des emails
+
+Family and relatives
+= grandmother - grand-mère
+= grandfather - grand-père
+= grandma - mamy
+= grandpa - papy
+= mother - mère
+= mum (UK) or mom (US) - maman
+= father - père
+= dad - papa
+= parents - parents
+= siblings - frères et sœurs
+= brother - frère
+= sister - sœur
+= older sister - sœur aînée
+= younger brother - frère cadet
+= brother-in-law - beau-frère
+= wife - femme
+= husband - mari
+= child (children) - enfant(s)
+= son - fils
+= daughter - fille
+= uncle - oncle
+= aunt - tante
+= cousin - cousin
+= niece - nièce
+= nephew - neveu
+= kid – enfant
+
+Opposite adjectives used to describe people
+= happy - heureux/heureuse
+= sad - triste
+= tall - grand/grande
+= short - petit/petite
+= young - jeune
+= old - vieux/vieille
+= strong - fort/forte
+= weak - faible
+= fat - gros/grosse
+= thin - mince
+= beautiful - beau/belle
+= ugly - laid/laide
+
+Opposite adjectives used to describe things
+= big - grand/grande
+= small - petit/petite
+= hot - chaud/chaude
+= cold - froid/froide
+= slow - lent/lente
+= fast - rapide
+= good - bon/bonne
+= bad - mauvais/mauvaise
+= heavy - lourd/lourde
+= light - léger/légère
+= hard - dur/dure
+= soft - doux/douce
+= thick - épais/épaisse
+= thin - fin/fine
+= full - plein/pleine
+= empty - vide
+= clean - propre
+= dirty - sale
+= dim - sombre
+= bright - lumineux/lumineuse
+= expensive - cher/chère
+= cheap - bon marché
+= long - long/longue
+= short - court/courte
+
+Daily routines
+= to wake up early in the morning - se réveiller tôt le matin
+= to get up - se lever
+= to brush one’s teeth - se brosser les dents
+= to have breakfast/lunch/dinner - déjeuner/dîner/souper
+= to have a shower - prendre une douche
+= to get dressed for work - s’habiller pour le travail
+= to go to work by bus - aller au travail en bus
+= to start work at 8 am - commencer le travail à 8 heures
+= to check one’s emails - vérifier ses e-mails
+= to finish work at 5 pm - finir le travail à 17 heures
+= to go home - rentrer à la maison
+= to do homework - faire ses devoirs
+= to go for a run - aller courir
+= to go to the gym - aller à la salle de sport
+= to go shopping - faire du shopping
+= to cook dinner - préparer le souper
+= to watch tv - regarder la télévision
+= to go to bed - aller se coucher
+
+Days, months and seasons
+= Monday - lundi
+= Tuesday - mardi
+= Wednesday - mercredi
+= Thursday - jeudi
+= Friday - vendredi
+= Saturday - samedi
+= Sunday – dimanche
+= January - janvier
+= February - février
+= March - mars
+= April - avril
+= May - mai
+= June - juin
+= July - juillet
+= August - août
+= September - septembre
+= October - octobre
+= November - novembre
+= December – décembre
+= spring - printemps
+= summer - été
+= autumn/fall - automne
+= winter – hiver
+
+Meals, breakfast and snacks
+= breakfast – (petit) déjeuner
+= lunch - dîner
+= dinner - souper
+= bread - pain
+= butter - beurre
+= cheese - fromage
+= egg - œuf
+= jam - confiture
+= juice - jus
+= milk - lait
+= pancake - crêpe
+= toast - toast
+= cereal - céréales
+= yogurt – yaourt
+= biscuit - biscuit
+= crisps - chips
+= fruit - fruit
+= nut - noix
+= cake - gâteau
+= ice cream - glace
+= popcorn - pop-corn
+= sandwich – sandwich
+= cake - gâteau
+= candy bar - barre chocolatée
+
+Food and drink
+= rice - riz
+= pasta - pâtes
+= pizza - pizza
+= meat - viande
+= fish - poisson
+= vegetables - légumes
+= soup - soupe
+= salad - salade
+= water - eau
+= milk - lait
+= juice - jus
+= tea - thé
+= coffee - café
+= beer - bière
+= wine - vin
+
+Shops and shopping
+= grocery store - épicerie
+= bakery - boulangerie
+= chemist’s - pharmacie
+= clothes shop - magasin de vêtements
+= shoe store - magasin de chaussures
+= bookshop - librairie
+= DIY shop - magasin de bricolage
+= electronics store - magasin d'électronique
+
+Parts of the body
+= head - tête
+= eye - yeux
+= ear - oreille
+= nose - nez
+= mouth - bouche
+= lip - lèvre
+= tooth – dent(s)
+= tongue - langue
+= neck - cou
+= shoulder - épaule
+= arm - bras
+= hand - main
+= finger - doigt
+= chest - poitrine
+= stomach - estomac
+= back - dos
+= leg - jambe
+= knee - genou
+= foot (feet) – pied(s)
+= toe - orteil
+
+Clothes
+= shirt - chemise
+= blouse - blouse
+= trousers (UK) or pants (US) - pantalon
+= suit - costume
+= dress - robe
+= skirt - jupe
+= jeans - jeans
+= shorts - short
+= sweater - pull
+= underpants/underwear - sous-vêtements
+= jacket - veste
+= coat - manteau
+= hat - chapeau
+= socks - chaussettes
+= shoes - chaussures
+= boots - bottes
+= gloves - gants
+= scarf - écharpe
+= tie - cravate
+= size - taille
+
+Verbs used to talk about clothes
+= to wear - porter
+= to put on - mettre
+= to take off - enlever
+= to get dressed - s’habiller
+= to try on - essayer
+= to hang up - accrocher
+= to fit - aller (bien)
+
+Rooms and parts in a house
+= bedroom - chambre
+= bathroom - salle de bains
+= toilet - toilettes
+= dining room - salle à manger
+= living room - salon
+= study - bureau
+= garage - garage
+= hall - hall
+= floor - sol
+= wall - mur
+= ceiling - plafond
+= balcony - balcon
+= door - porte
+= window - fenêtre
+= stairs - escalier
+= garden - jardin
+
+Things in a room
+= bed - lit
+= bedside table - table de nuit
+= picture - tableau
+= rug - tapis
+= desk - bureau
+= lamp - lampe
+= chair - chaise
+= armchair - fauteuil
+= wardrobe – garde-robe
+= drawer - tiroir
+= shelf - étagère
+= bookcase - bibliothèque
+= sofa - canapé
+= coffee table - table basse
+= curtain - rideau
+= fridge - réfrigérateur
+= cupboard – armoire, placard
+= cooker - cuisinière
+= microwave - micro-ondes
+= oven - four
+= sink - évier
+= bath - baignoire
+= shower – douche
+
+Places in a town
+= town - ville
+= city (large town) – (grande) ville
+= village - village
+= neighbourhood - quartier
+= city centre - centre-ville
+= street - rue
+= avenue - avenue
+= square - place
+= park - parc
+= museum - musée
+= library - bibliothèque
+= restaurant - restaurant
+= cafe - café
+= school - école
+= hospital - hôpital
+= post office - bureau de poste
+= bank - banque
+= cinema - cinéma
+= theatre - théâtre
+= bus stop - arrêt de bus
+= train station - gare
+= airport - aéroport
+
+At the restaurant
+= starter - entrée
+= main course - plat principal
+= side dish - accompagnement
+= dessert - dessert
+= reservation - réservation
+= waiter - serveur / waitress - serveuse
+= customer - client
+= menu - menu
+= beverage - boisson
+= special - plat du jour
+= order - commande
+= bill - addition
+= tip - pourboire
+= to eat out - manger au restaurant
+= to book a table - réserver une table
+= to order - commander
+= to recommend - recommander
+= to pay the bill - payer l’addition
+= to leave a tip - laisser un pourboire

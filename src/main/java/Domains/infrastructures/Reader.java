@@ -1,6 +1,6 @@
-package Domains.Infrastructures;
+package Domains.infrastructures;
 
-import Domains.Entities.Verbs;
+import Domains.entities.Verbs;
 
 import java.util.Map;
 

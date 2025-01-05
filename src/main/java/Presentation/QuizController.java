@@ -1,42 +1,71 @@
 package Presentation;
 
-import Domains.Quiz;
-import Domains.Storages.Storage;
+import Domains.quiz.IrregularsQuiz;
+import Domains.storages.Storage;
+import Domains.quiz.VocabQuiz;
+import Presentation.patternCommands.CommandesHandlerImpl;
+import Presentation.patternCommands.CommandsHandler;
+import Presentation.patternCommands.Register;
 
 import java.util.Scanner;
 
-public class QuizController {
+public class QuizController implements MainPresenter {
 
-    private final Quiz quiz;
+    private final IrregularsQuiz verbsQuiz;
+    private final VocabQuiz vocabQuiz;
+
     private final Storage storage;
 
+    private final Scanner scanner;
+
+    private final CommandsHandler commandHandler = new CommandesHandlerImpl();
+
+    private boolean running;
+
     public QuizController(Storage storage, Scanner scanner) {
-        this.quiz = new Quiz(storage.getVerbsMap(), scanner);
         this.storage = storage;
+        this.verbsQuiz = new IrregularsQuiz(storage.getVerbsMap(), scanner);
+        this.vocabQuiz = new VocabQuiz(storage.getVocabularyMap(), scanner);
+        this.scanner = scanner;
+        this.running = true;
+        registerCommands();
     }
 
+
+    @Override
     public void start() {
-        Scanner scanner = new Scanner(System.in);
-        boolean continueQuiz = false;
+        while (running) {
+            int choice = displayMenu();
+            commandHandler.executeCommand(choice);
+        }
+    }
 
+    private void registerCommands() {
+        Register commandRegisters = new Register(commandHandler, this, storage);
+        commandRegisters.registerCommands(scanner, vocabQuiz, verbsQuiz);
+    }
+
+    private int displayMenu() {
+        int choice;
         do {
-            String size = String.format("(1-%d)", storage.getVerbsMap().size());
-            System.out.printf("Sur quelle partie voulez-vous être testée ? %s : ", size);
-            String input = scanner.nextLine();
-            String[] range = input.split("-");
-            int startRange = Integer.parseInt(range[0].trim());
-            int endRange = Integer.parseInt(range[1].trim());
+            System.out.println("\nMenu : ");
+            System.out.println("1. Vocabulaire");
+            System.out.println("2. Verbes Irréguliers");
+            System.out.println("3. Quitter");
+            System.out.print("Choix ? ");
 
-            if (startRange > endRange
-                    || startRange < 1 || endRange > storage.getVerbsMap().size()) {
-                System.out.println("Plage invalide ! Assurez-vous que le premier nombre est inférieur ou égal au second.");
-                continue;
+            try {
+                choice = Integer.parseInt(scanner.nextLine().trim());
+            } catch (NumberFormatException e) {
+                System.out.println("Veuillez entrer un nombre valide !");
+                choice = -1;
             }
+        } while (choice < 1 || choice > 3);
+        return choice;
+    }
 
-            quiz.startQuiz(endRange);
-
-            System.out.print("Voulez-vous continuer (O/N) ? ");
-            continueQuiz = scanner.nextLine().equalsIgnoreCase("O");
-        } while (continueQuiz);
+    @Override
+    public void setRunning(boolean running) {
+        this.running = running;
     }
 }

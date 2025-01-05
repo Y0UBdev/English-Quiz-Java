@@ -1,7 +1,7 @@
 package Infrastructure;
 
-import Domains.Infrastructures.Reader;
-import Domains.Entities.Verbs;
+import Domains.infrastructures.Reader;
+import Domains.entities.Verbs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,11 +10,11 @@ import java.nio.file.Path;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FileReader implements Reader {
+public class VerbsIrregularReader implements Reader {
 
     private Path path;
 
-    public FileReader(Path path) {
+    public VerbsIrregularReader(Path path) {
         this.path = path;
     }
 
