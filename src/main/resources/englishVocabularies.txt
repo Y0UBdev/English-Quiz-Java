@@ -144,7 +144,7 @@ Days, months and seasons
 = September - septembre
 = October - octobre
 = November - novembre
-= December – décembre
+= December - décembre
 = spring - printemps
 = summer - été
 = autumn/fall - automne
@@ -210,7 +210,7 @@ Parts of the body
 = nose - nez
 = mouth - bouche
 = lip - lèvre
-= tooth – dent(s)
+= tooth - dent(s)
 = tongue - langue
 = neck - cou
 = shoulder - épaule
@@ -228,7 +228,7 @@ Parts of the body
 Clothes
 = shirt - chemise
 = blouse - blouse
-= pants (US) - pantalon
+= pants - pantalon
 = suit - costume
 = dress - robe
 = skirt - jupe
@@ -291,7 +291,7 @@ Things in a room
 = coffee table - table basse
 = curtain - rideau
 = fridge - réfrigérateur
-= cupboard – armoire, placard
+= cupboard - armoire, placard
 = cooker - cuisinière
 = microwave - micro-ondes
 = oven - four
@@ -344,3 +344,253 @@ At the restaurant
 = to recommend - recommander
 = to pay the bill - payer l’addition
 = to leave a tip - laisser un pourboire
+
+Adjectives with prepositions
+= angry with - en colère contre
+= disappointed with - déçu de
+= good/bad at - bon/mauvais en
+= happy with - heureux de
+= interested in - intéressé par
+= nice to - gentil avec
+= proud of - fier de
+= sick of - malade de
+= tired of - fatigué de
+= worried about - inquiet pour
+
+Verbs with prepositions
+= to apologize for - s'excuser pour
+= to belong to - appartenir à
+= to care about - se soucier de
+= to concentrate on - se concentrer sur
+= to depend on - dépendre de
+= to dream of - rêver de
+= to listen to - écouter
+= to look after - s'occuper de
+= to look forward to - attendre avec impatience
+= to succeed in - réussir dans
+= to talk about - parler de
+= to worry about - s'inquiéter de
+
+Describing people’s appearance
+= tall - grand/grande
+= short - petit/petite
+= slim - mince
+= thin - maigre
+= skinny - très maigre
+= overweight - en surpoids
+= fit - en forme
+
+Describing people’s personality
+= friendly - amical(e)
+= kind - gentil(le)
+= generous - généreux/généreuse
+= optimistic - optimiste
+= reliable - fiable
+= responsible - responsable
+= cheerful - joyeux/joyeuse
+= outgoing - sociable
+= easygoing - décontracté(e)
+= hardworking - travailleur/travailleuse
+= pessimistic - pessimiste
+= unfriendly - peu amical(e)
+= rude - impoli(e)
+= mean (unkind) - méchant(e)
+= mean (not generous) - avare
+= unreliable - peu fiable
+= irresponsible - irresponsable
+= miserable - malheureux/malheureuse
+= shy - timide
+= lazy - paresseux/paresseuse
+
+Shops and shopping
+= shop (UK) or store (US) - magasin/boutique
+= department store - grand magasin
+= supermarket - supermarché
+= shopping centre - centre commercial
+= market - marché
+= in a shop
+= cashier - caissier/caissière
+= customer - client(e)
+= cash register - caisse enregistreuse
+= sales assistant - vendeur/vendeuse
+= sales - soldes
+= discount - réduction
+= price - prix
+= receipt - reçu
+= refund - remboursement
+= purchase - acheter
+= fitting room - cabine d'essayage
+= window shopping - lèche-vitrine
+= sold out - épuisé/rupture de stock
+
+Housework
+= to sweep the floor - balayer le sol
+= to mop the floor - passer la serpillière
+= to hoover - passer l'aspirateur
+= to dust - épousseter
+= to wash - laver
+= to do the washing up - faire la vaisselle
+= to do the laundry - faire la lessive
+= to clean - nettoyer
+= to iron - repasser
+= to take out the rubbish - sortir les poubelles
+= to set the table - mettre la table
+= to clear the table - débarrasser la table
+= to make the bed - faire le lit
+= to tidy up - ranger
+= to water the plants - arroser les plantes
+= to make breakfast/lunch/dinner - préparer le (petit) déjeuner/le dîner/le souper
+= to make tea, coffee, etc. - préparer le thé, le café, etc.
+= to do chores - faire les tâches ménagères
+= to do the shopping - faire les courses
+= to walk the dog - promener le chien
+
+Common phrasal verbs
+= to put on - mettre (un vêtement)
+= to take off - enlever (un vêtement)
+= to turn on - allumer
+= to turn off - éteindre
+= to break down - tomber en panne
+= to break up - se séparer
+= to bring back - rendre
+= to get up - se lever
+= to get along - s'entendre
+= to give back - rendre
+= to give up - abandonner
+= to go on - continuer
+= to hang out - traîner
+= to look after - s'occuper de
+= to look for - chercher
+= to pick up - ramasser
+= to run out of - manquer de
+= to throw away - jeter
+= to work out - faire de l'exercice
+
+The weather
+= sunny - ensoleillé
+= cloudy - nuageux
+= rainy - pluvieux
+= snowy - neigeux
+= windy - venteux
+= degrees - degrés
+= hot - très chaud
+= warm - chaud
+= cold - froid
+= freezing - glacial
+= humid - humide
+= wet - mouillé
+= dry - sec
+= lightning - éclair
+= thunder - tonnerre
+= shower - averse
+= drizzle - bruine
+= hail - grêle
+
+In a hotel
+= single room - chambre individuelle
+= double room - chambre double
+= twin room - chambre à deux lits
+= sea view - vue sur la mer
+= half board - demi-pension
+= full board - pension complète
+= reception desk - réception
+= room service - service d'étage
+= housekeeping - service de ménage
+= conference room - salle de conférence
+= internet access - accès internet
+= laundry service - service de blanchisserie
+= parking facilities - installations de stationnement
+= wake-up call - appel de réveil
+= to book a room - réserver une chambre
+= to check in - s'enregistrer
+= to check out - régler la note et quitter l'hôtel
+= to pay the bill - payer la facture
+= to request - demander
+
+Hobbies and free time activities
+= collecting - collectionner
+= doing crafts - faire des travaux manuels
+= painting - peindre
+= DIY (do it yourself) - bricoler
+= gardening - jardiner
+= cooking - cuisiner
+= reading - lire
+= learning languages - apprendre des langues
+= watching tv - regarder la télévision
+= playing video games - jouer à des jeux vidéo
+= going to the cinema - aller au cinéma
+= photography - la photographie
+= singing - chanter
+= playing an instrument - jouer d'un instrument
+= working out - faire de l'exercice
+= running - courir
+= hiking - faire de la randonnée
+= fishing - pêcher
+
+Common speaking verbs
+= to say - dire
+= to tell - dire / raconter
+= to speak - parler
+= to talk - parler
+= to discuss - discuter
+= to explain - expliquer
+= to describe - décrire
+= to announce - annoncer
+= to report - rapporter / faire un rapport
+= to mention - mentionner
+= to express - exprimer
+= to advise - conseiller
+
+Giving directions
+= to go past - passer devant
+= to go along - longer
+= to go up/down - monter/descendre
+= to go straight on/ahead - aller tout droit
+= to stay on - rester sur
+= to go through - passer à travers
+= to go for - aller pour
+= to walk/drive across - traverser
+= to turn left - tourner à gauche
+= to turn right - tourner à droite
+= to go to the end of the street - aller jusqu’au bout de la rue
+= to go up/down a street - monter/descendre une rue
+= to exit - sortir
+= to turn around - faire demi-tour
+
+Prepositions of location
+= at - à
+= near - près de
+= across the street from/opposite - en face de
+= between - entre
+= next to - à côté de
+= on the corner of - au coin de
+= on + your/the right - sur + votre/ta droite
+= on + your/the left - sur + votre/ta gauche
+
+Holidays
+= journey - voyage
+= trip - excursion
+= tour - visite guidée
+= guide - guide
+= nightlife - vie nocturne
+= museum - musée
+= historical building - bâtiment historique
+= monument - monument
+= to pack - faire ses valises
+= to unpack - défaire ses valises
+= to book - réserver
+= to go on holiday - partir en vacances
+= to stay - séjourner
+= to visit - visiter
+= to sunbathe - prendre un bain de soleil
+= to swim - nager
+= to explore - explorer
+= to relax - se détendre
+= to go sightseeing - faire du tourisme
+= to take photos - prendre des photos
+= to try local food - goûter à la cuisine locale
+= to go hiking - faire de la randonnée
+= to go out for a meal - sortir pour un repas
+= to rent a car - louer une voiture
+= to stay in a hotel - séjourner dans un hôtel
+= to visit museums - visiter des musées
