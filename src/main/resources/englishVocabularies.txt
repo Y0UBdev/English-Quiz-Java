@@ -193,7 +193,7 @@ Food and drink
 = beer - bière
 = wine - vin
 
-Shops and shopping
+Shops and shopping 1
 = grocery store - épicerie
 = bakery - boulangerie
 = chemist's - pharmacie
@@ -402,7 +402,7 @@ Describing people's personality
 = shy - timide
 = lazy - paresseux/paresseuse
 
-Shops and shopping
+Shops and shopping 2
 = shop (UK) or store (US) - magasin/boutique
 = department store - grand magasin
 = supermarket - supermarché
