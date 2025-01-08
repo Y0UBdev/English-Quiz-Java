@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="Views.main.MainView"
+            prefHeight="400.0" prefWidth="600.0">
+    <MenuBar>
+        <Menu text="Fonctionnalités">
+            <MenuItem text="Vocabulaire" fx:id="vocabMenuItem" onAction="#handleVocabQuiz"/>
+            <MenuItem text="Verbes Irréguliers" fx:id="verbsMenuItem" onAction="#handleVerbsQuiz"/>
+            <MenuItem text="Quitter" fx:id="quitMenuItem" onAction="#handleQuit"/>
+        </Menu>
+    </MenuBar>
+</AnchorPane>

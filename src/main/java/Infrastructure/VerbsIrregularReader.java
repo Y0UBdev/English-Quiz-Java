@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class VerbsIrregularReader implements Reader {
 
-    private Path path;
+    private final Path path;
 
     public VerbsIrregularReader(Path path) {
         this.path = path;

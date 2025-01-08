@@ -9,7 +9,7 @@ import Presentation.patternCommands.Register;
 
 import java.util.Scanner;
 
-public class QuizController implements MainPresenter {
+public class QuizPresenter implements MainPresenter {
 
     private final IrregularsQuiz verbsQuiz;
     private final VocabQuiz vocabQuiz;
@@ -22,7 +22,7 @@ public class QuizController implements MainPresenter {
 
     private boolean running;
 
-    public QuizController(Storage storage, Scanner scanner) {
+    public QuizPresenter(Storage storage, Scanner scanner) {
         this.storage = storage;
         this.verbsQuiz = new IrregularsQuiz(storage.getVerbsMap(), scanner);
         this.vocabQuiz = new VocabQuiz(storage.getVocabularyMap(), scanner);
